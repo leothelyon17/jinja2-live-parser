@@ -1,4 +1,4 @@
-Flask==2.0.2
+Flask==1.1.4
 Jinja2==3.0.3
 PyYAML==5.4.1
 MarkupSafe==2.0.1
